@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Sangram | 2018</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,900" rel="stylesheet">
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
